@@ -1,0 +1,39 @@
+project:
+  type: website
+
+publish:
+  gh-pages: true
+
+website:
+  title: "ruthedunn"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Communications"
+        href: communications.qmd
+
+  page-footer:
+    left:
+      - text: "{{< fa brands bluesky >}}"
+        href: https://bsky.app/profile/ruthedunn.bsky.social
+      - text: "{{< fa brands google-scholar >}}"
+        href: https://scholar.google.com/citations?user=X1fJiGoAAAAJ&hl=en
+      - text: "{{< fa brands linkedin >}}"
+        href: https://linkedin.com/in/ruthedunn
+      - text: "{{< fa brands orcid >}}"
+        href: https://orcid.org/0000-0003-0927-2734
+    right:
+      - text: "ruth.dunn@cefe.cnrs.fr"
+      
+format:
+  html:
+    theme: pulse
+    css: styles.css
+
+editor: visual
+

@@ -1,0 +1,12 @@
+---
+title: "Ruth Dunn"
+image: RDunn_square.JPEG
+about:
+  template: jolla
+---
+
+Research Scientist \| CNRS \| Lancaster University \| Marine Ecology
+
+I enjoy researching the ecology and conservation biology of marine systems with a focus on marine predators. I primarily investigate the movement ecology and energetics of seabirds, as well as their influence on marine ecosystems.
+
+This website features information on my research interests, publications, and ways that I have communicated my research.
