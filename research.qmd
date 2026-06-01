@@ -11,19 +11,19 @@ Using data collected from a variety of biologging devices, I investigate year-ro
 
 ## Links between seabirds and coral reefs
 
-I work with the [LEC-REEFS](https://lec-reefs.org/) team to investigate the influence of rat eradications and habitat restoration on tropical seabird populations. We are interested in the impacts of seabird-derived nutrients on coral reef ecology.
+I work with the [LEC-REEFS](https://lec-reefs.org/) team to investigate the influence of rat eradications and habitat restoration on tropical seabird populations. We are interested in the impacts of seabird-derived nutrients marine ecosystems.
 
 ![](images/Screenshot%202023-11-16%20170335.png)
 
 ## Tropical seabird movement ecology
 
-I work with Steve Votier, Alice Trevail, Robin Freeman and Malcolm Nicol as part of the Bertarelli Foundation's [Marine Science](https://www.marine.science/project/importance-of-the-british-indian-ocean-territory-for-seabirds/) programme. We are investigating the movement ecology and connectivity of tropical seabirds within the Indian Ocean.
+I collaborate with Steve Votier, Alice Trevail, Robin Freeman and Malcolm Nicol on the Bertarelli Foundation's [Marine Science](https://www.marine.science/project/importance-of-the-british-indian-ocean-territory-for-seabirds/) programme. We investigate the movement ecology and connectivity of tropical seabirds within the Indian Ocean.
 
 ![](images/20220110-ZSLChagosReef1-1621-01.jpg)
 
 ## Estimating seabird energy expenditure
 
-I have created a Shiny app, ‘[The Seabird FMR Calculator](https://ruthedunn.shinyapps.io/seabird_fmr_calculator/)’, to generate estimates of energy expenditure for any population of any species of breeding seabird. Alongside Jamie Duckworth and Jonathan Green, we have also written a '[Framework to Unlock Marine Bird Energetics](https://doi.org/10.1242/jeb.246754)'.
+I created ‘[The Seabird FMR Calculator](https://ruthedunn.shinyapps.io/seabird_fmr_calculator/)’ to generate estimates of energy expenditure for any population of any species of breeding seabird. Alongside Jamie Duckworth and Jonathan Green, I also wrote a '[Framework to Unlock Marine Bird Energetics](https://doi.org/10.1242/jeb.246754)'.
 
 ![](images/IMG_0100.jpeg)
 

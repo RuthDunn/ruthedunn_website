@@ -7,6 +7,8 @@ format: html
 
 ### 2026
 
+Swaby L, Carr P, **Dunn RE**, Nicoll MAC, Trevail AM, Votier SC, Wood H, Freeman R. (2026) Deep neural networks to predict diving in seabirds. *Journal of the Royal Society Interface*. 23: 238. [https://doi.org/10.1098/rsif.2025.0172](https://doi.org/10.1098/rsif.2025.0172?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle).
+
 Neumann JL, **Dunn RE**, Nicoll MAC, Larose CS, Foster C, Brodin G, Feare CJ. (2026) Foraging areas of breeding sooty terns *Onychoprion fuscatus* on Bird Island, Seychelles. *Marine Ornithology*. 54: 131-138. [doi.org/10.5038/2074-1235.54.1.1682](http://www.marineornithology.org/article?rn=1682).
 
 ### 2025
