@@ -7,6 +7,8 @@ format: html
 
 ### 2026
 
+Jeannot L, **Dunn RE**, MPJ Velos, GJ Williams, CE Benkwitt, NAJ Graham, SJ Brandl. (2026) Contrasting cryptofaunal responses to seabird nutrient inputs illuminate coral reef productivity pathways. *Ecology*. 107 (7): e70453. <http://doi.org/10.1002/ecy.70453>.
+
 Swaby L, Carr P, **Dunn RE**, Nicoll MAC, Trevail AM, Votier SC, Wood H, Freeman R. (2026) Deep neural networks to predict diving in seabirds. *Journal of the Royal Society Interface*. 23: 238. [https://doi.org/10.1098/rsif.2025.0172](https://doi.org/10.1098/rsif.2025.0172?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle).
 
 Neumann JL, **Dunn RE**, Nicoll MAC, Larose CS, Foster C, Brodin G, Feare CJ. (2026) Foraging areas of breeding sooty terns *Onychoprion fuscatus* on Bird Island, Seychelles. *Marine Ornithology*. 54: 131-138. [doi.org/10.5038/2074-1235.54.1.1682](http://www.marineornithology.org/article?rn=1682).
@@ -21,11 +23,11 @@ See [here](https://www.lancaster.ac.uk/news/on-board-camera-footage-offers-birds
 
 See [here](https://www.lancaster.ac.uk/lec/about-us/news/ocean-currents-and-bird-colonies-work-together-to-keep-coral-reefs-healthy) for a Lancaster University news article on this publication.
 
-Jones HP, Appoo J, Benkwitt CE, Borrelle SB, **Dunn RE**, Epstein HE, Fowlke LA, Holmes ND, Jeanott LL, Malhi Y, Rankin LL, Steibl S, Wails CN, Will DJ, Graham NAJ. (2025) The circular seabird economy is critical for oceans, islands, and people. *Nature Reviews Biodiversity.* [doi.org/10.1038/s44358-025-00099-w](https://doi.org/10.1038/s44358-025-00099-w).
+Jones HP, Appoo J, Benkwitt CE, Borrelle SB, **Dunn RE**, Epstein HE, Fowlke LA, Holmes ND, Jeanott LL, Malhi Y, Rankin LL, Steibl S, Wails CN, Will DJ, Graham NAJ. (2025) The circular seabird economy is critical for oceans, islands, and people. *Nature Reviews Biodiversity.* 1: 689-702. [doi.org/10.1038/s44358-025-00099-w](https://doi.org/10.1038/s44358-025-00099-w).
 
 See [here](https://www.lancaster.ac.uk/news/global-study-reveals-seabirds-as-critical-connectors-between-islands-the-ocean-and-people) for an Lancaster University news article on this publication.
 
-Trevail AM, **Dunn RE**, Carr P, Esteban N, Freeman R, Harris JL, Nicoll MAC, Stephens N, Stevens GMW, Votier SC, Wood H, Hays GC. (2025) Large marine protected areas can encompass movements of diverse megafauna. *Journal of Applied Ecology*. [doi.org/10.1111/1365-2664.70117](https://doi.org/10.1111/1365-2664.70117){.uri}.
+Trevail AM, **Dunn RE**, Carr P, Esteban N, Freeman R, Harris JL, Nicoll MAC, Stephens N, Stevens GMW, Votier SC, Wood H, Hays GC. (2025) Large marine protected areas can encompass movements of diverse megafauna. *Journal of Applied Ecology*. 62 (9): 2454-2463. [doi.org/10.1111/1365-2664.70117](#0){.uri style="font-size: 11pt;"}.
 
 See [here](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/chagos-study-highlights-value-of-vast-marine-protected-areas/) for an Exeter University news article on this publication.
 
