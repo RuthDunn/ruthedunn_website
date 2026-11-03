@@ -5,7 +5,7 @@ about:
   template: jolla
 ---
 
-Research Scientist \| CNRS \| Lancaster University \| Marine Ecology
+Research Scientist \| University of Exeter, Penryn Campus \| Marine Ecology
 
 I enjoy researching the ecology and conservation biology of marine systems with a focus on marine predators. I primarily investigate the movement ecology and energetics of seabirds, as well as their influence on marine ecosystems.
 

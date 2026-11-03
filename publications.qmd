@@ -7,6 +7,8 @@ format: html
 
 ### 2026
 
+Graham NAJ, Benkwitt CE, Lange ID, Perry CT, Thomson ER, Wedding LM, **Dunn RE**, Steibl S, Stuart CE, Jeannot L, Appoo J, Rodriguez Fillol J, Stuhr M, Palola P, Carr P, DeVore JL, Ducatez S, Zora A, Hastings AK, Barroso SF, Evans S, Schulze M, Cotton E, Reddington H, Malhi Y. (2026) Seabirds and native vegetation drive ecosystem processes that support atoll island resilience. *Science Adances*. 12 (42): eaei1145. <https://doi.org/10.1126/sciadv.aei1145>.
+
 Jeannot L, **Dunn RE**, MPJ Velos, GJ Williams, CE Benkwitt, NAJ Graham, SJ Brandl. (2026) Contrasting cryptofaunal responses to seabird nutrient inputs illuminate coral reef productivity pathways. *Ecology*. 107 (7): e70453. <http://doi.org/10.1002/ecy.70453>.
 
 Swaby L, Carr P, **Dunn RE**, Nicoll MAC, Trevail AM, Votier SC, Wood H, Freeman R. (2026) Deep neural networks to predict diving in seabirds. *Journal of the Royal Society Interface*. 23: 238. [https://doi.org/10.1098/rsif.2025.0172](https://doi.org/10.1098/rsif.2025.0172?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle).
